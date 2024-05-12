@@ -10,8 +10,12 @@
 ### Create a new environment
 
 
+> ```
 > virtual env {environment name}
+> ```
 
+> ```
 > Open command prompt: {environment name\}\\Scripts\activate
+> ```
 
 ---
